@@ -1,0 +1,29 @@
+{
+  "2025-12-04": {
+    "mode": "Toddler",
+    "requirements": {},
+    "meals": [],
+    "water_ml": 0.0
+  },
+  "2025-12-06": {
+    "mode": "Adult",
+    "requirements": {
+      "calories": 2331.0,
+      "protein": 160.0,
+      "fat": 90.0,
+      "carbs": 220.25,
+      "water_ml": 3000.0
+    },
+    "meals": [
+      {
+        "time": "2025-12-06T13:51:22.308426",
+        "food": "Cauliflower",
+        "calories": 82.0,
+        "protein": 6.9,
+        "fat": 0.5,
+        "carbs": 12.4
+      }
+    ],
+    "water_ml": 15.0
+  }
+}

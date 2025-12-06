@@ -1,0 +1,501 @@
+Food,Category,Portion_g,Protein_g,Fat_g,Carbs_g,Calories_kcal
+Vegetable Khichdi,Dinner,91,2.9,2.2,2.1,40
+Apple + Peanut Butter,Snack,36,6.2,2.2,8.8,80
+Rice Congee,International,84,5.5,5.1,10.7,111
+Cauliflower,Vegetable,48,6.9,0.5,12.4,82
+Lentil Soup,Dinner,59,5.8,0.3,22.9,118
+Baked Salmon,Dinner,94,5.4,4.1,21.0,142
+Vegetable Rice,Lunch,38,7.0,5.5,18.3,151
+French Toast,Breakfast,52,5.1,1.3,13.4,86
+Boiled Egg,Snack,39,2.2,5.6,17.6,130
+Cucumber Slices,Snack,87,6.5,2.8,22.0,139
+Vegetable Curry,Dinner,37,4.0,4.8,21.6,146
+Vegetable Curry,Dinner,47,9.4,6.5,16.3,161
+Soft Taco,International,33,3.9,2.2,19.9,115
+Pasta,Lunch,58,8.2,1.3,7.8,76
+Whole Milk,Drink,67,7.8,5.6,5.8,105
+Baked Potato with Cheese,Dinner,63,9.3,2.1,18.9,132
+Berries Mix,Fruit,44,2.3,0.4,21.9,100
+Mashed Potatoes,Lunch,56,2.3,1.5,22.0,111
+Lentil Stew,Lunch,93,3.0,4.2,17.4,119
+Zucchini,Vegetable,38,2.6,1.4,24.5,121
+Mashed Potatoes,Lunch,94,5.2,5.0,7.9,97
+Mini Meatballs,Lunch,82,6.9,4.0,6.5,90
+Broccoli,Vegetable,93,9.5,5.0,2.5,93
+Mini Meatballs,Lunch,75,6.1,0.2,19.9,106
+Waffles,Breakfast,51,1.6,6.6,15.0,126
+Cabbage,Vegetable,68,0.6,4.1,12.6,90
+Yogurt Drink,Snack,42,6.8,1.2,7.4,68
+Smoothie (Fruit),Drink,83,8.7,4.1,20.1,152
+Dosa,International,49,4.3,5.2,9.9,104
+Baked Sweet Potato,Lunch,72,1.2,6.8,18.2,139
+Chicken Breast,Lunch,47,3.7,3.5,6.7,73
+Miso Soup,International,51,9.9,2.2,10.8,103
+Soft Taco,International,77,8.1,4.4,11.1,116
+Papaya,Fruit,56,5.0,0.7,22.5,116
+Pear,Fruit,77,0.9,6.3,3.3,74
+Toast,Breakfast,33,0.8,4.9,24.3,144
+Smoothie (Fruit),Drink,59,7.4,1.3,22.2,130
+Pasta,Lunch,93,4.0,5.2,13.9,118
+Pineapple,Fruit,63,5.3,5.1,20.3,148
+Zucchini,Vegetable,42,9.3,6.0,12.9,143
+Oatmeal,Breakfast,48,4.1,6.0,23.6,165
+Apple Juice,Drink,99,9.3,3.8,3.4,85
+Bell Pepper,Vegetable,59,4.3,1.5,20.0,111
+Mango,Fruit,81,4.4,1.7,2.6,43
+Berry Smoothie,Drink,65,4.9,5.2,4.4,84
+Pancake,Breakfast,91,1.4,6.2,16.8,129
+Buttermilk,Drink,97,5.4,6.2,8.5,111
+French Toast,Breakfast,83,7.6,2.6,20.6,136
+Grapes,Fruit,91,9.5,3.7,3.6,86
+Apple,Fruit,38,9.7,4.2,6.5,103
+Berries Mix,Fruit,93,1.0,1.6,24.6,117
+Mini Sandwich,Snack,76,9.6,7.0,2.6,112
+Rice Congee,International,77,3.3,4.5,17.3,123
+Mini Meatballs,Lunch,71,6.9,6.2,21.8,171
+Vegetable Soup,Lunch,30,0.8,4.6,4.8,64
+Zucchini,Vegetable,98,1.1,2.5,11.7,74
+Pasta,Lunch,91,6.2,0.7,11.3,76
+Cucumber Slices,Snack,94,3.8,3.8,12.9,101
+Mini Meatballs,Lunch,59,7.0,2.9,24.3,151
+Banana,Fruit,90,2.9,3.9,8.0,79
+Green Beans,Vegetable,48,8.0,7.0,11.7,142
+Mini Quesadilla,International,36,1.1,2.2,16.5,90
+Oat Milk,Drink,54,8.9,0.4,7.1,68
+Cabbage,Vegetable,34,4.1,2.5,16.7,106
+Mild Noodles,International,45,7.2,2.0,24.6,145
+Hot Cocoa,Drink,38,5.0,1.7,6.1,60
+Baked Sweet Potato,Lunch,84,5.6,5.5,5.8,95
+Hummus with Veggies,International,68,9.9,2.5,13.9,118
+Pear,Fruit,32,6.5,0.4,14.8,89
+Tofu Stir Fry,Dinner,62,8.5,3.1,14.0,118
+Whole Milk,Drink,54,5.0,1.3,22.1,120
+Papaya,Fruit,59,4.4,2.3,19.3,116
+Soy Milk,Drink,68,8.6,2.2,21.3,139
+Apple,Fruit,54,3.4,0.6,21.0,103
+Scrambled Egg,Breakfast,68,7.0,1.5,2.9,53
+Apple Juice,Drink,85,8.3,4.1,24.4,168
+Lentil Stew,Lunch,39,2.3,4.2,9.3,84
+Vegetable Khichdi,Dinner,92,2.6,4.9,10.4,96
+Lentil Soup,Dinner,54,2.9,0.7,2.2,27
+Pancake,Breakfast,38,2.4,2.6,3.6,47
+Baked Sweet Potato,Lunch,60,7.7,0.8,24.6,136
+Vegetable Stir Fry,Dinner,71,5.4,6.0,22.3,165
+Idli,International,68,0.6,4.1,21.0,123
+Mild Noodles,International,77,3.8,3.7,16.3,114
+Apple,Fruit,33,4.6,5.0,15.6,126
+Vegetable Soup,Lunch,91,6.3,3.1,15.9,117
+Mini Quesadilla,International,38,3.4,1.5,19.7,106
+Dosa,International,96,6.5,6.5,11.6,131
+Baked Salmon,Dinner,79,5.7,5.1,7.4,98
+Mini Meatballs,Lunch,97,0.6,4.6,10.4,85
+Baked Potato with Cheese,Dinner,80,1.8,6.8,8.1,101
+Papaya,Fruit,89,4.6,4.9,12.9,114
+Yogurt Drink,Snack,53,8.0,5.0,19.9,157
+Oatmeal,Breakfast,65,1.5,2.5,3.3,42
+Apple Juice,Drink,94,4.3,5.9,24.5,168
+Oat Milk,Drink,72,8.1,6.4,8.7,125
+Corn,Vegetable,77,9.6,2.0,8.5,90
+Cucumber Slices,Snack,55,8.3,4.1,15.5,132
+Pear,Fruit,92,5.5,5.0,6.5,93
+Toast,Breakfast,42,6.1,4.4,22.8,155
+Baked Potato with Cheese,Dinner,85,2.1,2.0,19.9,106
+Rice Congee,International,100,1.3,6.9,22.6,158
+Vegetable Curry,Dinner,41,2.9,0.4,12.2,64
+Grapes,Fruit,52,8.1,3.3,11.9,110
+Rice Cake with Hummus,Snack,92,2.4,4.7,12.2,101
+Oat Milk,Drink,52,6.8,1.3,24.6,137
+Corn,Vegetable,41,7.2,6.2,10.5,127
+Yogurt Drink,Snack,49,3.1,4.2,12.6,101
+Bell Pepper,Vegetable,68,7.4,6.0,20.1,164
+Baked Potato with Cheese,Dinner,44,4.6,4.7,4.7,80
+Cheese Cubes,Snack,46,4.5,4.2,5.4,77
+Chapati,International,67,3.2,3.3,21.3,128
+Zucchini,Vegetable,63,5.3,5.5,19.9,150
+Vegetable Curry,Dinner,47,1.6,5.0,24.5,149
+Corn,Vegetable,70,2.9,2.5,16.9,102
+Oat Milk,Drink,74,6.9,2.4,6.5,75
+Vegetable Soup,Lunch,51,8.9,5.1,5.6,104
+Mashed Potatoes,Lunch,50,4.4,1.0,20.7,109
+Soy Milk,Drink,78,9.3,1.3,24.9,148
+Oatmeal,Breakfast,98,8.0,0.5,20.5,118
+Chapati,International,47,9.7,5.8,23.4,185
+Oat Milk,Drink,64,8.7,5.6,16.2,150
+Oatmeal,Breakfast,36,2.6,6.2,4.4,84
+Apple Juice,Drink,55,5.9,3.9,11.2,104
+Banana Milkshake,Drink,63,2.3,3.4,23.2,133
+Watermelon,Fruit,84,0.9,6.8,4.2,82
+Pasta,Lunch,44,6.2,2.1,23.4,137
+Bell Pepper,Vegetable,97,7.8,0.4,2.5,45
+Chapati,International,35,1.9,0.3,2.1,19
+Pancake,Breakfast,65,2.6,0.9,24.5,116
+French Toast,Breakfast,86,8.3,6.4,20.9,174
+Toast,Breakfast,37,1.1,3.6,13.9,92
+Bell Pepper,Vegetable,82,1.6,0.2,6.6,35
+Oat Milk,Drink,36,8.0,6.9,14.3,151
+Lentil Stew,Lunch,94,7.4,4.7,3.4,86
+Watermelon,Fruit,67,4.5,3.7,12.7,102
+French Toast,Breakfast,50,7.6,1.3,16.6,108
+Pancake,Breakfast,68,8.3,2.8,13.8,114
+Mini Meatballs,Lunch,52,8.7,0.3,2.6,48
+Boiled Egg,Snack,42,5.9,2.2,19.4,121
+Hummus with Veggies,International,47,3.0,0.7,18.2,91
+Broccoli,Vegetable,86,6.2,4.1,20.7,144
+Soy Milk,Drink,42,4.9,1.8,2.5,46
+Corn,Vegetable,71,6.4,5.0,10.8,114
+Mild Noodles,International,36,5.4,5.5,16.1,136
+Mini Meatballs,Lunch,95,8.3,1.0,11.9,90
+Rice Congee,International,46,4.6,6.4,24.0,172
+Mango,Fruit,41,7.1,2.8,12.1,102
+Baked Potato with Cheese,Dinner,41,2.5,3.6,23.8,138
+Lentil Stew,Lunch,88,6.0,1.2,22.6,125
+Coconut Water,Drink,83,9.4,2.3,3.5,72
+Pineapple,Fruit,32,9.1,4.9,9.2,117
+Mild Noodles,International,33,4.9,0.8,8.1,59
+Vegetable Khichdi,Dinner,35,7.8,5.6,13.8,137
+Apple,Fruit,71,4.2,1.5,13.6,85
+Soy Milk,Drink,68,5.0,4.1,16.1,121
+Green Beans,Vegetable,30,5.9,4.6,13.5,119
+Chapati,International,74,5.8,1.2,19.2,111
+Rice Congee,International,62,2.9,4.5,5.6,74
+Baked Potato with Cheese,Dinner,61,9.6,0.3,20.9,125
+Rice Congee,International,46,8.3,1.6,17.7,118
+Soy Milk,Drink,70,7.5,4.7,7.5,102
+Cucumber Slices,Snack,73,5.3,3.0,21.1,133
+Broccoli,Vegetable,62,8.2,2.7,9.8,96
+French Toast,Breakfast,38,3.7,1.5,6.8,56
+Crackers,Snack,50,7.7,0.2,14.1,89
+Mini Waffles,Snack,100,8.3,6.6,5.7,115
+Miso Soup,International,99,3.6,3.7,24.6,146
+Mashed Potatoes,Lunch,91,5.8,3.5,12.6,105
+Coconut Water,Drink,70,9.0,5.6,5.4,108
+Bell Pepper,Vegetable,44,5.5,5.5,18.0,144
+Vegetable Rice,Lunch,63,9.3,2.3,7.1,86
+Corn,Vegetable,54,3.8,0.3,10.8,61
+Vegetable Soup,Lunch,90,7.8,5.9,8.8,120
+Peas,Vegetable,71,7.5,5.8,14.1,139
+Cheese Cubes,Snack,90,10.0,2.8,23.7,160
+Cabbage,Vegetable,39,2.1,0.3,16.0,75
+Mini Quesadilla,International,58,4.0,1.2,10.6,69
+Lentil Stew,Lunch,93,4.6,0.6,17.6,94
+Pasta with Veggies,Dinner,56,4.2,4.9,7.8,92
+Zucchini,Vegetable,49,3.6,2.6,15.6,100
+Pineapple,Fruit,39,2.4,0.4,9.3,50
+Waffles,Breakfast,66,6.1,4.5,9.5,103
+Hot Cocoa,Drink,89,4.3,1.5,14.1,87
+Pasta,Lunch,81,2.0,1.2,10.7,62
+Vegetable Khichdi,Dinner,95,1.1,5.4,21.7,140
+Apple + Peanut Butter,Snack,77,7.6,0.3,5.1,54
+Waffles,Breakfast,87,2.2,3.1,12.8,88
+Idli,International,93,3.0,0.4,14.4,73
+Vegetable Sushi,International,36,2.0,3.0,2.8,46
+Baked Sweet Potato,Lunch,78,8.0,6.2,11.6,134
+Banana Milkshake,Drink,58,1.2,2.8,3.1,42
+Oatmeal,Breakfast,91,9.2,4.8,20.8,163
+Tofu Stir Fry,Dinner,71,5.3,4.8,8.9,100
+Oatmeal,Breakfast,52,7.1,3.3,10.3,99
+Vegetable Soup,Lunch,70,3.8,1.1,19.6,104
+Mini Meatballs,Lunch,31,7.3,4.7,22.9,163
+Vegetable Sushi,International,87,5.3,0.4,21.6,111
+Buttermilk,Drink,91,5.1,5.7,22.3,161
+Mini Quesadilla,International,86,5.4,1.1,8.5,66
+Hummus with Veggies,International,58,9.5,5.8,22.5,180
+Miso Soup,International,42,2.1,2.1,21.3,112
+Chicken Breast,Lunch,34,2.2,1.1,22.5,109
+Cabbage,Vegetable,84,1.0,6.4,3.9,77
+Pasta with Veggies,Dinner,48,4.9,3.0,3.6,61
+Vegetable Soup,Lunch,74,9.8,0.6,19.1,121
+Banana Milkshake,Drink,85,4.7,1.6,17.2,102
+Lentil Stew,Lunch,63,1.7,6.3,5.0,84
+French Toast,Breakfast,31,2.9,3.7,15.0,105
+Baked Potato with Cheese,Dinner,94,5.8,3.1,7.4,81
+Apple + Peanut Butter,Snack,50,6.0,2.7,20.2,129
+Zucchini,Vegetable,83,5.5,0.6,9.3,65
+Vegetable Khichdi,Dinner,50,9.7,5.4,2.7,98
+Peach,Fruit,69,3.8,6.1,21.8,157
+Pineapple,Fruit,59,6.6,1.0,18.1,108
+Fruit Smoothie,Snack,76,3.7,1.8,22.0,119
+Banana Milkshake,Drink,49,6.6,6.9,7.4,118
+Boiled Egg,Snack,42,5.8,3.5,14.4,112
+Bell Pepper,Vegetable,90,1.4,3.4,20.0,116
+Oatmeal,Breakfast,57,3.4,6.1,12.5,118
+Vegetable Soup,Lunch,44,8.9,5.5,18.4,159
+Yogurt Drink,Snack,53,0.6,0.7,22.5,99
+Apple,Fruit,73,8.1,4.9,24.2,173
+Vegetable Sushi,International,33,8.3,3.0,2.4,70
+Berries Mix,Fruit,32,4.4,0.2,24.7,118
+Scrambled Egg,Breakfast,34,2.9,6.8,22.5,163
+Baked Sweet Potato,Lunch,98,9.1,5.8,24.8,188
+Vegetable Rice,Lunch,89,8.8,5.5,14.5,143
+Soy Milk,Drink,40,5.9,3.0,20.4,132
+French Toast,Breakfast,78,0.8,3.1,6.1,56
+Cheese Cubes,Snack,68,9.6,3.1,11.2,111
+French Toast,Breakfast,33,8.6,6.5,4.6,111
+Scrambled Egg,Breakfast,68,7.6,1.6,22.8,136
+Vegetable Soup,Lunch,80,8.7,1.4,20.3,129
+Smoothie (Fruit),Drink,34,5.8,0.9,18.6,106
+Pasta with Veggies,Dinner,66,1.5,4.2,18.5,118
+Cabbage,Vegetable,47,0.6,5.4,17.2,120
+Dosa,International,76,3.0,0.2,3.0,26
+Baked Potato with Cheese,Dinner,54,5.8,5.1,15.5,131
+Waffles,Breakfast,62,2.3,6.1,23.3,157
+Banana,Fruit,74,3.5,2.1,9.3,70
+Pancake,Breakfast,63,1.4,1.3,14.5,75
+Porridge,Breakfast,67,3.3,5.4,24.2,159
+Coconut Water,Drink,81,5.2,4.5,9.8,100
+Vegetable Sushi,International,44,2.0,6.9,18.9,146
+Rice Cake with Hummus,Snack,87,7.7,0.1,12.6,82
+Vegetable Sushi,International,74,6.9,4.4,11.9,115
+Apple + Peanut Butter,Snack,91,8.6,2.2,12.1,103
+Lentil Stew,Lunch,32,7.4,4.9,2.7,84
+Toast,Breakfast,69,4.8,6.5,18.4,151
+Hummus with Veggies,International,81,4.2,3.0,4.7,63
+Smoothie (Fruit),Drink,37,9.9,6.9,20.2,182
+Cheese Cubes,Snack,69,6.4,3.2,8.9,90
+Bell Pepper,Vegetable,48,6.0,4.1,3.5,75
+Smoothie (Fruit),Drink,42,7.6,0.7,4.3,54
+Chicken Breast,Lunch,33,8.1,0.2,16.4,100
+Toast,Breakfast,82,5.8,5.0,18.5,142
+Rice Congee,International,30,8.6,4.7,18.0,149
+Oatmeal,Breakfast,33,9.1,2.3,24.5,155
+Mango,Fruit,95,7.3,0.5,14.2,90
+Waffles,Breakfast,98,7.5,5.0,14.3,132
+Rice Cake with Hummus,Snack,84,4.5,4.3,19.7,136
+Apple Juice,Drink,65,3.0,6.9,3.7,89
+Green Beans,Vegetable,100,1.8,2.2,23.6,121
+Waffles,Breakfast,34,5.9,2.4,10.2,86
+Peas,Vegetable,35,0.7,6.9,11.7,112
+Paneer Curry,Dinner,41,3.5,1.4,18.6,101
+Apple Juice,Drink,97,8.6,6.1,7.6,120
+Soy Milk,Drink,48,1.9,6.4,15.3,126
+Zucchini,Vegetable,53,7.7,5.1,9.9,116
+Yogurt Drink,Snack,99,8.3,2.5,10.2,96
+Dosa,International,87,7.2,0.8,7.5,66
+Soft Taco,International,81,3.3,2.8,21.6,125
+French Toast,Breakfast,35,5.1,3.4,24.1,147
+Peas,Vegetable,30,9.2,2.2,8.2,89
+Yogurt Drink,Snack,62,5.7,3.3,15.9,116
+Miso Soup,International,48,7.7,6.8,16.8,159
+Vegetable Rice,Lunch,64,5.1,3.4,4.3,68
+Lentil Soup,Dinner,50,1.4,4.5,19.8,125
+Crackers,Snack,86,4.0,1.8,12.7,83
+Tofu Stir Fry,Dinner,49,1.7,1.6,23.9,117
+Chapati,International,37,8.1,2.5,20.0,135
+Berries Mix,Fruit,52,7.7,2.3,4.9,71
+Vegetable Rice,Lunch,68,2.7,2.7,7.3,64
+Corn,Vegetable,98,2.1,2.2,7.5,58
+Pasta,Lunch,93,1.1,3.1,3.9,48
+Green Beans,Vegetable,59,1.6,5.8,21.1,143
+Yogurt Drink,Snack,88,7.9,0.9,5.7,62
+Cheese Cubes,Snack,48,3.6,6.8,18.4,149
+Yogurt Drink,Snack,80,8.1,5.2,12.7,130
+Paneer Curry,Dinner,83,8.1,0.8,23.9,135
+Baked Salmon,Dinner,53,7.6,5.8,22.8,174
+Soft Taco,International,30,5.8,4.3,6.3,87
+Scrambled Egg,Breakfast,65,3.1,2.4,13.9,90
+Porridge,Breakfast,76,7.1,4.7,18.5,145
+Baked Potato with Cheese,Dinner,74,1.1,1.1,12.9,66
+Mild Noodles,International,50,5.3,1.8,18.1,110
+Idli,International,85,0.8,2.5,17.6,96
+Baked Sweet Potato,Lunch,51,9.5,3.6,3.3,84
+Mango,Fruit,76,4.7,2.6,3.6,57
+Pumpkin,Vegetable,31,9.9,5.7,2.3,100
+Whole Milk,Drink,61,3.5,2.2,4.4,51
+Smoothie (Fruit),Drink,95,2.8,4.6,7.7,83
+Peach,Fruit,37,3.9,6.8,22.1,165
+Tofu Stir Fry,Dinner,70,3.8,6.6,22.6,165
+Vegetable Rice,Lunch,32,4.4,6.7,23.8,173
+Mild Noodles,International,43,1.6,3.6,2.9,50
+Smoothie (Fruit),Drink,65,2.6,0.4,13.2,67
+Vegetable Curry,Dinner,68,8.2,4.0,6.0,93
+Hummus with Veggies,International,69,8.1,5.3,14.4,138
+Soft Taco,International,92,4.8,2.0,8.5,71
+Vegetable Sushi,International,48,5.9,4.0,22.1,148
+Baked Salmon,Dinner,42,4.0,6.3,20.8,156
+Miso Soup,International,94,1.6,1.5,21.6,106
+Dosa,International,48,3.4,1.2,15.2,85
+Cucumber Slices,Snack,82,1.9,2.1,16.6,93
+Rice Congee,International,42,1.1,6.6,12.6,114
+Vegetable Khichdi,Dinner,72,5.0,2.1,23.1,131
+Oat Milk,Drink,47,6.4,2.7,6.0,74
+Watermelon,Fruit,53,9.6,5.5,25.0,188
+Bell Pepper,Vegetable,48,8.8,1.1,6.3,70
+Banana Milkshake,Drink,53,5.9,4.6,8.6,99
+Corn,Vegetable,62,5.6,3.4,14.5,111
+Vegetable Sushi,International,82,9.7,6.0,19.1,169
+French Toast,Breakfast,32,8.2,2.8,11.2,103
+Cauliflower,Vegetable,83,6.7,4.7,20.8,152
+Crackers,Snack,77,5.9,0.8,9.0,67
+Scrambled Egg,Breakfast,75,9.1,0.9,4.7,63
+Papaya,Fruit,85,3.3,5.9,23.2,159
+Boiled Egg,Snack,76,3.8,4.1,23.2,145
+Rice Congee,International,58,9.7,6.1,12.7,144
+Pumpkin,Vegetable,61,6.0,5.1,22.3,159
+Baked Salmon,Dinner,63,4.4,2.6,10.9,85
+Toast,Breakfast,90,9.3,2.9,13.2,116
+Watermelon,Fruit,68,1.7,2.8,20.1,112
+Hummus with Veggies,International,34,6.9,0.7,18.4,108
+Chicken Breast,Lunch,94,4.5,4.6,17.9,131
+Dosa,International,54,5.8,2.9,9.7,88
+Oat Milk,Drink,38,6.4,1.5,23.2,132
+Bell Pepper,Vegetable,91,3.1,6.7,15.5,135
+Corn,Vegetable,52,6.9,2.0,20.0,126
+Buttermilk,Drink,54,5.4,1.8,8.0,70
+Rice Congee,International,48,8.9,1.6,3.9,66
+Idli,International,44,5.1,3.3,19.8,129
+Whole Milk,Drink,46,2.4,6.3,8.3,100
+Scrambled Egg,Breakfast,68,5.4,1.0,18.6,105
+Pasta with Veggies,Dinner,97,7.0,2.9,5.4,76
+Oat Milk,Drink,37,8.2,0.8,19.8,119
+Lentil Soup,Dinner,100,2.9,1.9,16.1,93
+Rice Cake with Hummus,Snack,56,3.0,3.0,20.0,119
+Peas,Vegetable,66,2.6,2.4,8.7,67
+Lentil Stew,Lunch,58,8.5,6.8,6.4,121
+Mini Quesadilla,International,54,3.5,2.5,22.4,126
+Oatmeal,Breakfast,45,8.6,4.8,9.7,116
+Corn,Vegetable,52,7.6,1.1,18.0,112
+Zucchini,Vegetable,89,5.8,3.5,14.6,113
+Baked Potato with Cheese,Dinner,99,2.4,5.8,16.7,129
+Pancake,Breakfast,32,9.4,5.9,9.3,128
+Boiled Egg,Snack,58,3.0,5.6,21.4,148
+Apple,Fruit,62,6.4,4.8,10.5,111
+French Toast,Breakfast,65,6.3,0.5,14.6,88
+Pasta,Lunch,59,0.7,3.6,11.6,82
+Banana Milkshake,Drink,65,3.9,0.2,7.8,49
+Buttermilk,Drink,52,6.9,2.9,15.3,115
+Baked Potato with Cheese,Dinner,74,4.3,2.1,6.2,61
+Pear,Fruit,70,7.0,6.9,22.5,180
+Watermelon,Fruit,38,9.0,3.0,3.2,76
+Cauliflower,Vegetable,33,9.9,4.1,20.0,156
+Hummus with Veggies,International,30,5.7,1.0,16.0,96
+Pasta with Veggies,Dinner,59,4.4,4.6,12.7,110
+Spinach,Vegetable,87,3.4,4.6,24.7,154
+Toast,Breakfast,85,6.4,4.3,13.5,118
+Toast,Breakfast,96,2.9,0.9,11.1,64
+Cheese Cubes,Snack,69,6.0,0.8,17.9,103
+Waffles,Breakfast,64,1.1,1.9,6.1,46
+Baked Sweet Potato,Lunch,36,1.1,3.0,4.5,49
+Lentil Stew,Lunch,86,5.4,3.4,21.5,138
+Dosa,International,93,7.0,6.8,12.1,138
+Peas,Vegetable,57,4.7,1.3,4.4,48
+Berries Mix,Fruit,99,7.4,1.6,20.0,124
+Lentil Soup,Dinner,39,9.6,3.6,7.3,100
+Vegetable Curry,Dinner,75,1.5,6.4,18.8,139
+Crackers,Snack,51,6.1,5.9,11.2,122
+Lentil Soup,Dinner,81,9.9,2.2,19.8,139
+Cheese Cubes,Snack,97,8.6,2.7,19.1,135
+French Toast,Breakfast,41,5.9,3.8,7.6,88
+Fish Fillet,Lunch,84,6.2,1.2,7.9,67
+Tofu Stir Fry,Dinner,82,5.6,0.3,16.6,92
+Waffles,Breakfast,62,5.5,3.4,14.6,111
+Dosa,International,62,0.6,3.6,10.5,77
+Cucumber Slices,Snack,56,1.2,1.4,23.1,110
+Vegetable Stir Fry,Dinner,53,9.6,1.8,5.5,77
+Spinach,Vegetable,71,7.3,1.7,8.9,80
+Green Beans,Vegetable,30,9.9,0.1,18.2,113
+Apple + Peanut Butter,Snack,63,7.1,4.4,18.7,143
+Mini Meatballs,Lunch,61,4.9,2.2,8.1,72
+Baked Potato with Cheese,Dinner,56,1.9,2.2,23.1,120
+Pancake,Breakfast,68,0.9,6.4,6.5,87
+Idli,International,71,7.5,1.3,7.5,72
+Boiled Egg,Snack,89,1.3,7.0,4.6,87
+Chapati,International,62,7.8,0.2,6.7,60
+Pasta with Veggies,Dinner,45,4.8,1.3,24.5,129
+Corn,Vegetable,100,3.3,2.3,10.6,76
+Soy Milk,Drink,79,3.3,1.4,10.4,67
+Grapes,Fruit,76,7.0,6.0,3.1,94
+Mango,Fruit,64,9.5,0.1,10.5,81
+Baked Potato with Cheese,Dinner,85,9.3,1.9,8.4,88
+Watermelon,Fruit,79,4.2,3.8,12.9,103
+Cucumber Slices,Snack,91,9.4,2.5,23.9,156
+Broccoli,Vegetable,72,7.8,3.1,19.6,138
+Apple,Fruit,68,2.8,6.7,14.6,130
+Hot Cocoa,Drink,69,8.5,3.9,4.8,88
+Yogurt Drink,Snack,58,3.9,4.0,10.6,94
+Toast,Breakfast,43,9.9,3.6,19.0,148
+Vegetable Rice,Lunch,82,2.5,1.5,5.3,45
+Peas,Vegetable,56,4.6,5.4,24.9,167
+Papaya,Fruit,38,3.3,5.8,22.3,155
+Cucumber Slices,Snack,92,5.9,6.2,14.9,139
+Vegetable Sushi,International,33,3.1,4.2,18.9,126
+Paneer Curry,Dinner,45,3.3,5.6,7.7,94
+Hot Cocoa,Drink,60,3.8,3.8,15.0,109
+Cucumber Slices,Snack,47,5.8,4.4,15.5,125
+Berry Smoothie,Drink,97,9.9,6.0,22.1,182
+French Toast,Breakfast,32,7.6,3.2,15.3,120
+Vegetable Rice,Lunch,38,5.6,1.9,11.6,86
+Pasta with Veggies,Dinner,58,2.7,5.4,15.6,122
+Scrambled Egg,Breakfast,43,7.6,0.3,21.0,117
+Pasta,Lunch,93,2.3,2.3,15.0,90
+Hummus with Veggies,International,67,9.8,2.7,14.8,123
+Hot Cocoa,Drink,71,4.6,3.5,13.5,104
+Vegetable Soup,Lunch,71,6.9,0.3,11.1,75
+Hummus with Veggies,International,74,8.7,1.7,24.5,148
+Idli,International,78,9.1,5.4,14.2,142
+Lentil Soup,Dinner,37,5.2,3.4,16.8,119
+Bell Pepper,Vegetable,44,1.3,6.7,16.9,133
+Apple Juice,Drink,80,8.6,3.6,18.6,141
+Porridge,Breakfast,84,2.7,2.1,15.7,92
+Lentil Soup,Dinner,33,7.9,2.6,3.6,69
+Vegetable Rice,Lunch,34,4.5,1.6,23.9,128
+Broccoli,Vegetable,48,3.1,3.8,6.0,71
+Broccoli,Vegetable,48,8.5,2.8,6.8,86
+Pasta,Lunch,72,7.8,2.6,8.0,87
+French Toast,Breakfast,34,8.7,5.3,22.5,172
+Mashed Potatoes,Lunch,71,9.8,6.3,4.5,114
+Fruit Smoothie,Snack,64,1.6,5.8,22.5,149
+Banana,Fruit,42,8.9,6.5,2.1,102
+Mini Meatballs,Lunch,37,9.4,2.0,9.2,92
+Coconut Water,Drink,96,8.7,6.0,8.2,122
+Soy Milk,Drink,65,8.0,6.2,6.4,113
+Porridge,Breakfast,80,9.0,0.3,11.0,83
+Broccoli,Vegetable,30,4.8,0.6,11.2,69
+Grapes,Fruit,62,8.2,3.2,14.6,120
+Vegetable Khichdi,Dinner,78,2.7,2.1,9.7,68
+Grapes,Fruit,61,8.8,4.5,13.1,128
+Vegetable Curry,Dinner,34,1.3,5.2,16.1,116
+Apple,Fruit,44,3.9,3.0,15.8,106
+Soy Milk,Drink,46,4.2,2.5,11.6,86
+Rice Cake with Hummus,Snack,97,1.4,0.3,11.6,55
+Baked Sweet Potato,Lunch,31,5.2,6.6,19.9,160
+Scrambled Egg,Breakfast,79,6.9,6.9,24.7,188
+Porridge,Breakfast,94,7.0,6.5,19.5,164
+Mini Sandwich,Snack,81,3.0,1.0,24.0,117
+Tofu Stir Fry,Dinner,47,4.7,3.6,7.8,82
+Chapati,International,47,4.2,2.1,21.7,122
+Tofu Stir Fry,Dinner,76,1.1,5.1,17.9,122
+Cheese Cubes,Snack,46,1.4,3.0,20.9,116
+Porridge,Breakfast,61,3.5,1.2,24.5,123
+Fruit Smoothie,Snack,47,1.8,6.6,23.9,162
+Cauliflower,Vegetable,50,3.1,3.5,9.1,80
+Mango,Fruit,52,5.5,4.3,6.2,86
+Tofu Stir Fry,Dinner,68,8.7,5.2,24.8,181
+Baked Potato with Cheese,Dinner,30,4.8,4.1,7.4,86
+Lentil Stew,Lunch,73,8.0,1.1,6.3,67
+Porridge,Breakfast,42,7.1,1.3,5.3,61
+Scrambled Egg,Breakfast,79,5.4,5.1,14.9,127
+Pear,Fruit,43,2.7,6.9,21.6,159
+Mini Meatballs,Lunch,50,1.8,4.5,10.6,90
+Baked Sweet Potato,Lunch,41,5.9,2.8,14.9,108
+Papaya,Fruit,39,9.9,0.3,6.4,68
+Tofu Stir Fry,Dinner,95,6.4,3.0,7.5,83
+Papaya,Fruit,31,10.0,3.8,17.3,143
+Coconut Water,Drink,62,4.9,2.4,24.5,139
+Toast,Breakfast,50,9.0,6.2,2.5,102
+Peas,Vegetable,72,8.8,2.5,6.9,85
+Corn,Vegetable,89,5.4,6.4,4.8,98
+Yogurt Drink,Snack,58,2.6,3.6,6.0,67
+Bell Pepper,Vegetable,77,2.2,1.1,21.5,105
+Berry Smoothie,Drink,53,2.8,4.3,9.2,87
+Baked Potato with Cheese,Dinner,100,0.9,2.2,16.8,91
+Vegetable Curry,Dinner,41,7.1,6.5,20.4,168
+Cheese Cubes,Snack,73,8.6,5.9,6.8,115
+Vegetable Khichdi,Dinner,100,4.5,4.2,17.4,125
+Mini Waffles,Snack,90,3.2,2.2,15.4,94
+Grapes,Fruit,57,7.3,6.0,16.9,151
+Dosa,International,47,4.2,1.6,11.6,78
+Baked Potato with Cheese,Dinner,85,1.6,5.9,11.0,104
+Cabbage,Vegetable,62,8.0,5.6,23.8,178
+Pear,Fruit,33,9.7,4.1,10.9,119
+Hot Cocoa,Drink,32,7.4,3.4,7.4,90
+Waffles,Breakfast,32,5.7,4.8,3.3,79
